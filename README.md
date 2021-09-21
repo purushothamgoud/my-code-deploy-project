@@ -1,2 +1,1 @@
-# my-code-deploy-project
-hello world
+# aws_codedeploy_using_github
